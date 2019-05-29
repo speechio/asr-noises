@@ -48,7 +48,7 @@ cc-by
 # **References / citations / licenses**
 
 **Links / license**
-- [rnnoise](https://people.xiph.org/~jm/demo/rnnoise/) / ?;
+- [rnnoise](https://people.xiph.org/~jm/demo/rnnoise/) / [CC0](https://creativecommons.org/publicdomain/zero/1.0/);
 - [acoustic events](https://data.vision.ee.ethz.ch/cvl/ae_dataset/) / `if you end up using the dataset, we ask you to cite the following paper`;
 - [urban sounds](urbansounddataset.weebly.com/urbansound8k.html) / [cc-by-nc](http://creativecommons.org/licenses/by-nc/3.0/);
 - [esc-50](https://github.com/karoldvl/ESC-50) / [license](https://github.com/karoldvl/ESC-50/blob/master/LICENSE) (cc-by-nc);
